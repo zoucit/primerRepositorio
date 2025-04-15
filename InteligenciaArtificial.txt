@@ -1,0 +1,8 @@
+La Inteligencia Artificial (IA) es una rama de la informática que busca crear sistemas capaces de **realizar tareas que normalmente requieren inteligencia humana**, como:
+
+- Aprender de datos (machine learning)
+- Reconocer patrones (como imágenes o voz)
+- Tomar decisiones
+- Entender y generar lenguaje (como lo hago yo 😄)
+
+La IA se usa hoy en cosas como asistentes virtuales, recomendaciones en redes sociales, autos autónomos, diagnósticos médicos, y más.
